@@ -1,8 +1,9 @@
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&text=MELINSKY&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=CODE%20%7C%20BUILD%20%7C%20DEBUG%20%7C%20REPEAT&descSize=16&descAlign=50&descAlignY=58&color=0D1117&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&text=MELINSKY&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=CODE%20%7C%20BUILD%20%7C%20DEBUG%20%7C%20REPEAT&descSize=16&descAlign=50&descAlignY=58&color=0B1F33&animation=fadeIn" />
 </div>
 
 <div data-importer="image" align="center">
+
   <table>
     <tr>
       <td align="center">
@@ -13,20 +14,21 @@
 
   <code>root@melinsky:~$ whoami</code>
 
-  <h1>Melinsky 👋</h1>
+  <h1>Melinsky // Developer</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&color=FFFFFF&lines=Developer+%7C+Builder+%7C+Problem+Solver;Learn+%3E+Build+%3E+Test+%3E+Improve;Always+building+something+new." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&color=FFFFFF&lines=Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+working+code.;Learn+%3E+Build+%3E+Test+%3E+Improve;Always+building+something+new." alt="Typing SVG" />
 
   <p>
-    <code>&gt; Welcome to my GitHub profile_</code>
+    <code>&gt; system.ready()</code>
   </p>
 
   <p>
-    Building projects, exploring technology and turning ideas into something real.
+    Building, experimenting and constantly improving through code.
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=LeoraBoli&label=PROFILE%20VIEWS&color=21262d&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/LeoraBoli?label=FOLLOWERS&style=for-the-badge&color=21262d&labelColor=0D1117" alt="Followers" />
+
 </div>
 
 <h2 align="center">👨‍💻 About</h2>
@@ -36,23 +38,23 @@
 <code>melinsky@dev:~$ cat about.txt</code>
 
 <p>
-I'm a developer interested in software, technology and building things from the ground up.
+I'm focused on software development, technology and building practical ideas from the ground up.
 <br>
-I enjoy taking an idea and turning it into code, testing different approaches,
+I like understanding how things work, experimenting with different approaches
 <br>
-figuring out what works, fixing what doesn't and improving the result.
+and turning concepts into projects that actually work.
 </p>
 
 <p>
-I'm always exploring new technologies and tools while learning through
+Most of my learning comes from building, breaking, debugging and improving.
 <br>
-real projects, experimentation and hands-on development.
+Every project is another opportunity to understand something deeper and do it better.
 </p>
 
 <p>
-I care about understanding how things work, keeping projects clean
+Always exploring new technologies, tools and ideas while keeping things simple,
 <br>
-and constantly finding better ways to solve problems.
+clean and focused on the result.
 </p>
 
 <code>BUILD → TEST → DEBUG → IMPROVE → REPEAT</code>
@@ -94,7 +96,7 @@ and constantly finding better ways to solve problems.
 </div>
 
 <p align="center">
-  <code>11 technologies • one goal: keep building</code>
+  <code>Tools change. The mindset doesn't.</code>
 </p>
 
 <div align="center">
@@ -112,11 +114,13 @@ and constantly finding better ways to solve problems.
 <code>melinsky@dev:~$ ./current-projects</code>
 
 <p>
-  <code>[+] Exploring new technologies</code>
+  <code>[+] Exploring</code>
   &nbsp;&nbsp;
-  <code>[+] Building new ideas</code>
+  <code>[+] Building</code>
   &nbsp;&nbsp;
-  <code>[+] Improving projects</code>
+  <code>[+] Testing</code>
+  &nbsp;&nbsp;
+  <code>[+] Improving</code>
 </p>
 
 </div>
@@ -169,13 +173,13 @@ and constantly finding better ways to solve problems.
 </tr>
 </table>
 
-<br>
-
 <code>ERROR: motivation.exe has stopped working</code>
 &nbsp;
 <code>STATUS: restarting...</code>
 
 </div>
+
+<br>
 
 <picture data-importer="pacman">
 
@@ -206,5 +210,5 @@ srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacm
 </div>
 
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0D1117&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&color=0B1F33&animation=fadeIn" />
 </div>
