@@ -1,183 +1,391 @@
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=MELINSKY&fontSize=65&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Create&descSize=20&descAlign=50&descAlignY=58&theme=cobalt&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=MELINSKY&fontSize=65&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20CREATE&descSize=20&descAlign=50&descAlignY=58&theme=cobalt&animation=fadeIn" />
 </div>
 
-<div data-importer="image" align="center">
-  <img height="220" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/funny-cat-gif-funny-cat-rigby-cat%281%29.gif" alt="Funny Rigby Cat GIF" />
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img height="220" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/funny-cat-gif-funny-cat-rigby-cat%281%29.gif" alt="Funny Rigby Cat GIF" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<sub>Welcome to my digital workspace.</sub>
+
 </div>
 
-<h1 data-importer="text" align="center">Hey 👋 What's Up?</h1>
+<br>
+
+<h1 data-importer="text" align="center">
+  Hey, I'm Melinsky 👋
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile.;Code+%E2%80%A2+Build+%E2%80%A2+Create+%E2%80%A2+Repeat.;Always+learning%2C+always+building.;Turning+ideas+into+something+real." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=8B5CF6&lines=Developer+%7C+Builder+%7C+Problem+Solver;Building+ideas+through+code.;Always+learning.+Always+improving.;Creating%2C+experimenting+and+building." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Welcome to my corner of GitHub — a place where I share projects, experiments, ideas and everything I'm currently building.
+  <code>// Welcome to my GitHub profile</code>
+  <br><br>
+  A place where I build projects, experiment with technology
   <br>
-  Always exploring new technologies, learning new things and turning ideas into real experiences through code.
+  and turn ideas into something real.
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeoraBoli&label=PROFILE%20VIEWS&color=0047AB&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/LeoraBoli?label=FOLLOWERS&style=for-the-badge&color=0047AB" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/LeoraBoli?affiliations=OWNER&label=STARS&style=for-the-badge&color=0047AB" alt="Stars" />
-</div>
-
 <br>
 
-<h2 align="center">👨‍💻 About Me</h2>
-
 <div align="center">
 
-💡 Passionate about technology, software and creating new things.
+  <img src="https://komarev.com/ghpvc/?username=LeoraBoli&label=PROFILE%20VIEWS&color=4B0082&style=for-the-badge" alt="Profile views" />
 
-⚡ I enjoy building, testing, experimenting and improving ideas through code.
-
-🚀 Always exploring new tools, technologies and different ways to solve problems.
-
-🧠 Every project is an opportunity to learn, improve and create something better.
-
-🎯 Currently focused on learning, building and taking ideas from concept to reality.
+  <img src="https://img.shields.io/github/followers/LeoraBoli?label=FOLLOWERS&style=for-the-badge&color=4B0082&labelColor=0D1117" alt="Followers" />
 
 </div>
 
 <br>
 
-<div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/oye-gato-gif-oye-gato.gif" alt="Oye Gato GIF" />
-</div>
-
-<br>
-
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">⌨️ ABOUT ME</h2>
 
 <p align="center">
-  Some of the languages, tools and technologies I work with and continue to explore.
+  ═══════════════════════════════════════
 </p>
+
+<p align="center">
+  <i>Building ideas. Solving problems. Improving with every project.</i>
+</p>
+
+<br>
+
+<div align="center">
+
+I'm a developer interested in software, technology and creating things that are useful and well-built.
+
+<br><br>
+
+I enjoy working on different projects, exploring new technologies
+and understanding how things work behind the scenes.
+
+<br><br>
+
+Whether it's a small experiment or a larger project,
+I focus on the process, the details and what I can learn from it.
+
+<br><br>
+
+I believe good development comes from curiosity, consistency
+and attention to detail.
+
+<br><br>
+
+Every project brings a new challenge, a new lesson
+and another opportunity to improve.
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-111827?style=for-the-badge&labelColor=4B0082" />
+
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-111827?style=for-the-badge&labelColor=4B0082" />
+
+  <img src="https://img.shields.io/badge/MODE-BUILD%20%26%20IMPROVE-111827?style=for-the-badge&labelColor=1E3A8A" />
+
+</div>
+
+<br>
+
+<p align="center">
+  ═══════════════════════════════════════
+</p>
+
+<br>
+
+<h2 align="center">💭 CURRENTLY</h2>
+
+<p align="center">
+  <code>// Exploring. Building. Improving.</code>
+</p>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img height="180" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/oye-gato-gif-oye-gato.gif" alt="Oye Gato GIF" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<i>
+Exploring new ideas, learning new technologies
+<br>
+and building whatever comes next.
+</i>
+
+</div>
+
+<br>
+
+<p align="center">
+  ═══════════════════════════════════════
+</p>
+
+<br>
+
+<h2 align="center">🛠️ TECH STACK</h2>
+
+<p align="center">
+  ═══════════════════════════════════════
+</p>
+
+<p align="center">
+  <code>// Technologies & tools</code>
+</p>
+
+<br>
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="GitLab" />
+
 </div>
 
 <br>
 
 <p align="center">
-  <b>Languages & Technologies I Work With</b>
+  <i>Tools are just tools. The interesting part is what you build with them.</i>
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
 
 <br>
 
-<h2 align="center">🌐 Connect</h2>
+<h2 align="center">🌐 CONNECT</h2>
 
 <p align="center">
-  Feel free to connect and check out what I'm working on.
+  ═══════════════════════════════════════
 </p>
+
+<p align="center">
+  <code>// Find me around the internet</code>
+</p>
+
+<br>
 
 <div data-importer="socials" align="center">
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Discord" />
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="32" alt="Discord" />
   </a>
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Visual Studio Marketplace" />
+  <a href="https://marketplace.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=VS%20Marketplace&logo=visualstudio&label=&color=007ACC&logoColor=white&labelColor=0D1117&style=for-the-badge" height="32" alt="Visual Studio Marketplace" />
   </a>
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitLab" />
+  <a href="https://gitlab.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=0D1117&style=for-the-badge" height="32" alt="GitLab" />
   </a>
 
   <a href="https://github.com/LeoraBoli" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitHub" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292F&logoColor=white&labelColor=0D1117&style=for-the-badge" height="32" alt="GitHub" />
   </a>
 
 </div>
 
 <br>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<p align="center">
+  ═══════════════════════════════════════
+</p>
+
+<br>
+
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <p align="center">
-  A quick overview of my activity, contributions and the technologies I use the most.
+  ═══════════════════════════════════════
 </p>
+
+<p align="center">
+  <code>// Activity overview</code>
+</p>
+
+<br>
 
 <div data-importer="stats" align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=LeoraBoli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
 
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoraBoli&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=LeoraBoli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoraBoli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoraBoli&theme=transparent&hide_border=true&border_radius=10" alt="GitHub streak" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoraBoli&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+
 </div>
 
 <br>
-
-<div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/cat-meme-gif-cat-meme.gif" alt="Cat Meme GIF" />
-</div>
-
-<br>
-
-<h2 align="center">👾 Pac-Man Contribution Graph</h2>
 
 <p align="center">
-  A fun way to visualize my GitHub contribution activity.
+  ═══════════════════════════════════════
 </p>
 
+<br>
+
+<h2 align="center">☕ IN BETWEEN COMMITS</h2>
+
+<p align="center">
+  <code>// Debugging requires patience.</code>
+</p>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img height="180" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/cat-meme-gif-cat-meme.gif" alt="Cat Meme GIF" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<i>
+Sometimes the best debugging strategy is taking a break.
+</i>
+
+<br><br>
+
+<b>Code a little. Debug a little. Repeat.</b>
+
+</div>
+
+<br>
+
+<p align="center">
+  ═══════════════════════════════════════
+</p>
+
+<br>
+
+<h2 align="center">👾 PAC-MAN CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  ═══════════════════════════════════════
+</p>
+
+<p align="center">
+  <code>// Contribution activity</code>
+</p>
+
+<br>
+
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph.svg?game=pacman">
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
+
+  <img
+    width="100%"
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
+
 </picture>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-0047AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Building-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Always%20Improving-239120?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-111827?style=for-the-badge&labelColor=4B0082" />
+
+  <img src="https://img.shields.io/badge/FOCUS-BUILDING-111827?style=for-the-badge&labelColor=1E3A8A" />
+
+  <img src="https://img.shields.io/badge/MINDSET-KEEP%20IMPROVING-111827?style=for-the-badge&labelColor=4B0082" />
+
 </div>
 
 <br>
 
+<p align="center">
+  ═══════════════════════════════════════
+</p>
+
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MELINSKY+%E2%80%A2+CODE+%E2%80%A2+BUILD+%E2%80%A2+LEARN+%E2%80%A2+REPEAT+%E2%9A%A1;Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="Footer typing animation" />
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=700&color=8B5CF6&lines=%5B+MELINSKY+%5D+%3E+CODE.+BUILD.+IMPROVE.;%24+echo+%22Thanks+for+visiting.%22"
+    alt="Footer typing animation"
+  />
+
 </div>
 
 <br>
 
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&animation=fadeIn" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&animation=fadeIn"
+  />
 </div>
