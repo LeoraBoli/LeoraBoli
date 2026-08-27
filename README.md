@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=MELINSKY&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20CREATE&descSize=18&descAlign=50&descAlignY=58&theme=cobalt&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&text=MELINSKY&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=CODE%20%7C%20BUILD%20%7C%20DEBUG%20%7C%20REPEAT&descSize=17&descAlign=50&descAlignY=58&color=0D1117&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -14,57 +14,78 @@
 </tr>
 </table>
 
-<sub>Welcome to my digital workspace.</sub>
+<code>root@melinsky:~$ whoami</code>
 
 </div>
 
-<h1 data-importer="text" align="center">Hey, I'm Melinsky 👋</h1>
+<h1 align="center">Melinsky 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&center=true&vCenter=true&width=680&color=8B5CF6&lines=Developer+%7C+Builder+%7C+Problem+Solver;Building+ideas+through+code.;Always+learning.+Always+improving.;Creating+%26+experimenting." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&center=true&vCenter=true&width=680&color=FFFFFF&lines=Developer+%7C+Builder+%7C+Problem+Solver;Writing+code+and+turning+ideas+into+projects.;Learn+%3E+Build+%3E+Test+%3E+Improve;Always+working+on+something+new." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <code>// Welcome to my GitHub profile</code>
-  <br>
-  Building projects, exploring technology and turning ideas into something real.
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeoraBoli&label=PROFILE%20VIEWS&color=4B0082&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/LeoraBoli?label=FOLLOWERS&style=for-the-badge&color=4B0082&labelColor=0D1117" alt="Followers" />
-</div>
-
-<h2 align="center">⌨️ ABOUT ME</h2>
-
-<p align="center">
-  <i>Building ideas. Solving problems. Improving with every project.</i>
+  <code>&gt; Welcome to my GitHub profile_</code>
 </p>
 
 <div align="center">
 
-I'm a developer interested in software, technology and creating things that are useful and well-built.
+<img src="https://komarev.com/ghpvc/?username=LeoraBoli&label=PROFILE%20VIEWS&color=21262d&style=for-the-badge" alt="Profile views" />
 
-<br>
-
-I enjoy exploring new technologies, experimenting with different ideas and understanding how things work behind the scenes.
-
-<br>
-
-Every project is a chance to learn something new, improve my skills and build something better.
+<img src="https://img.shields.io/github/followers/LeoraBoli?label=FOLLOWERS&style=for-the-badge&color=21262d&labelColor=0D1117" alt="Followers" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-111827?style=for-the-badge&labelColor=4B0082" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-111827?style=for-the-badge&labelColor=4B0082" />
-  <img src="https://img.shields.io/badge/MODE-BUILD%20%26%20IMPROVE-111827?style=for-the-badge&labelColor=1E3A8A" />
-</p>
+<h2 align="center">╭─ ABOUT ME ─╮</h2>
 
-<h2 align="center">💭 CURRENTLY</h2>
+<div align="center">
+
+<code>~/about</code>
+
+<br><br>
+
+I'm a developer focused on software, technology and building things from the ground up.
+
+<br>
+
+I like taking an idea, turning it into code, testing it, breaking it,
+<br>
+understanding what went wrong and making it better.
+
+<br><br>
+
+My interests cover different areas of development, from applications
+<br>
+and web technologies to lower-level programming and technical experimentation.
+
+<br><br>
+
+I enjoy learning by actually building — experimenting with new tools,
+<br>
+trying different approaches and improving projects over time.
+
+<br><br>
+
+<strong>Current mindset:</strong> build with purpose, learn from mistakes and keep improving.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE-161B22?style=for-the-badge&labelColor=0D1117&color=30363D" />
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-161B22?style=for-the-badge&labelColor=0D1117&color=30363D" />
+
+<img src="https://img.shields.io/badge/MINDSET-KEEP%20LEARNING-161B22?style=for-the-badge&labelColor=0D1117&color=30363D" />
+
+</div>
+
+<h2 align="center">╭─ CURRENTLY ─╮</h2>
 
 <p align="center">
-  <code>// Exploring. Building. Improving.</code>
+  <code>melinsky@dev:~$ ./current-projects</code>
 </p>
 
 <div align="center">
@@ -73,20 +94,28 @@ Every project is a chance to learn something new, improve my skills and build so
 <tr>
 <td align="center">
 
-<img height="160" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/oye-gato-gif-oye-gato.gif" alt="Oye Gato GIF" />
+<img height="155" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/oye-gato-gif-oye-gato.gif" alt="Oye Gato GIF" />
 
 </td>
 </tr>
 </table>
 
-<i>Exploring new ideas, learning new technologies and building whatever comes next.</i>
+<br>
+
+<code>[+] Exploring new technologies</code>
+<br>
+<code>[+] Building and experimenting</code>
+<br>
+<code>[+] Improving existing projects</code>
+<br>
+<code>[+] Learning something new every day</code>
 
 </div>
 
-<h2 align="center">🛠️ TECH STACK</h2>
+<h2 align="center">╭─ TECH STACK ─╮</h2>
 
 <p align="center">
-  <code>// Technologies & tools</code>
+  <code>~/tools &amp;&amp; ~/technologies</code>
 </p>
 
 <div data-importer="techs" align="center">
@@ -126,50 +155,60 @@ Every project is a chance to learn something new, improve my skills and build so
 </div>
 
 <p align="center">
-  <i>Tools are just tools. The interesting part is what you build with them.</i>
+  <code>11 technologies • countless possibilities</code>
 </p>
 
-<h2 align="center">🌐 CONNECT</h2>
+<h2 align="center">╭─ CONNECT ─╮</h2>
+
+<p align="center">
+  <code>melinsky@dev:~$ connect --social</code>
+</p>
 
 <div data-importer="socials" align="center">
 
 <a href="https://discord.com/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="Discord" />
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=21262d&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="Discord" />
 </a>
 
 <a href="https://marketplace.visualstudio.com/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=VS%20Marketplace&logo=visualstudio&label=&color=007ACC&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="Visual Studio Marketplace" />
+<img src="https://img.shields.io/static/v1?message=VS%20Marketplace&logo=visualstudio&label=&color=21262d&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="Visual Studio Marketplace" />
 </a>
 
 <a href="https://gitlab.com/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="GitLab" />
+<img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=21262d&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="GitLab" />
 </a>
 
 <a href="https://github.com/LeoraBoli" target="_blank">
-<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292F&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="GitHub" />
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=21262d&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="GitHub" />
 </a>
 
 </div>
 
-<h2 align="center">📊 GITHUB STATISTICS</h2>
+<h2 align="center">╭─ GITHUB STATISTICS ─╮</h2>
 
 <p align="center">
-  <code>// Activity overview</code>
+  <code>melinsky@github:~$ git stats</code>
 </p>
 
 <div data-importer="stats" align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeoraBoli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeoraBoli&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoraBoli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoraBoli&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoraBoli&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoraBoli&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub streak" />
+
 </div>
 
-<h2 align="center">☕ IN BETWEEN COMMITS</h2>
+<h2 align="center">╭─ DEBUG MODE ─╮</h2>
+
+<p align="center">
+  <code>while(alive) { code(); debug(); improve(); }</code>
+</p>
 
 <div align="center">
 
@@ -177,24 +216,26 @@ Every project is a chance to learn something new, improve my skills and build so
 <tr>
 <td align="center">
 
-<img height="160" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/cat-meme-gif-cat-meme.gif" alt="Cat Meme GIF" />
+<img height="155" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/cat-meme-gif-cat-meme.gif" alt="Cat Meme GIF" />
 
 </td>
 </tr>
 </table>
 
-<i>Sometimes the best debugging strategy is taking a break.</i>
+<br>
+
+<code>ERROR: motivation.exe has stopped working</code>
 
 <br>
 
-<code>Code a little. Debug a little. Repeat.</code>
+<code>STATUS: restarting...</code>
 
 </div>
 
-<h2 align="center">👾 PAC-MAN CONTRIBUTION GRAPH</h2>
+<h2 align="center">╭─ PAC-MAN ─╮</h2>
 
 <p align="center">
-  <code>// Contribution activity</code>
+  <code>./contribution-activity</code>
 </p>
 
 <picture data-importer="pacman">
@@ -215,16 +256,18 @@ srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacm
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-111827?style=for-the-badge&labelColor=4B0082" />
-<img src="https://img.shields.io/badge/FOCUS-BUILDING-111827?style=for-the-badge&labelColor=1E3A8A" />
-<img src="https://img.shields.io/badge/MINDSET-KEEP%20IMPROVING-111827?style=for-the-badge&labelColor=4B0082" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-161B22?style=for-the-badge&labelColor=0D1117&color=30363D" />
+
+<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-161B22?style=for-the-badge&labelColor=0D1117&color=30363D" />
+
+<img src="https://img.shields.io/badge/BUILD-IN%20PROGRESS-161B22?style=for-the-badge&labelColor=0D1117&color=30363D" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=650&color=8B5CF6&lines=%5B+MELINSKY+%5D+%3E+CODE.+BUILD.+IMPROVE.;%24+echo+%22Thanks+for+visiting.%22" alt="Footer animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&center=true&vCenter=true&width=620&color=FFFFFF&lines=%5B+MELINSKY+%5D+%3E+CODE.+BUILD.+DEBUG.;%24+echo+%22Keep+building.%22" alt="Footer animation" />
 </p>
 
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&theme=cobalt&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0D1117&animation=fadeIn" />
 </div>
