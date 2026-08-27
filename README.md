@@ -1,1 +1,183 @@
-<div data-importer="border"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=MELINSKY&fontSize=65&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Create&descSize=20&descAlign=50&descAlignY=58&theme=cobalt&animation=fadeIn" /> </div> <div data-importer="image" align="center"> <img height="220" src="https://tenor.com/cd2HCkztigM.gif" alt="Rigby cat GIF" /> </div> <h1 data-importer="text" align="center">Hey 👋 What's Up?</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile.;Code+%E2%80%A2+Build+%E2%80%A2+Create+%E2%80%A2+Repeat.;Always+learning%2C+always+building.;Turning+ideas+into+something+real." alt="Typing SVG" /> </p> <p align="center"> Welcome to my corner of GitHub — a place where I share projects, experiments, ideas and everything I'm currently building. <br> Always exploring new technologies, learning new things and turning ideas into real experiences through code. </p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=LeoraBoli&label=PROFILE%20VIEWS&color=0047AB&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/LeoraBoli?label=FOLLOWERS&style=for-the-badge&color=0047AB" alt="Followers" /> <img src="https://img.shields.io/github/stars/LeoraBoli?affiliations=OWNER&label=STARS&style=for-the-badge&color=0047AB" alt="Stars" /> </div> <br> <h2 align="center">👨‍💻 About Me</h2> <div align="center"> 💡 Passionate about technology, software and creating new things. ⚡ I enjoy building, testing, experimenting and improving ideas through code. 🚀 Always exploring new tools, technologies and different ways to solve problems. 🧠 Every project is an opportunity to learn, improve and create something better. 🎯 Currently focused on learning, building and taking ideas from concept to reality. </div> <br> <h2 align="center">🛠️ Tech Stack</h2> <p align="center"> Some of the languages, tools and technologies I work with and continue to explore. </p> <div data-importer="techs" align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo" /> </div> <br> <p align="center"> <b>Languages & Technologies I Work With</b> </p> <div align="center"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </div> <br> <h2 align="center">🌐 Connect</h2> <p align="center"> Feel free to connect and check out what I'm working on. </p> <div data-importer="socials" align="center"> <a href="#" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Discord" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Visual Studio Marketplace" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitLab" /> </a> </div> <br> <h2 align="center">📊 GitHub Statistics</h2> <p align="center"> A quick overview of my activity, contributions and the technologies I use the most. </p> <div data-importer="stats" align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=LeoraBoli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" /> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoraBoli&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" /> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoraBoli&theme=transparent&hide_border=true&border_radius=10" alt="GitHub streak" /> </div> <br> <h2 align="center">👾 Pac-Man Contribution Graph</h2> <p align="center"> A fun way to visualize my GitHub contribution activity. </p> <picture data-importer="pacman"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph.svg?game=pacman"> <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph.svg?game=pacman"> </picture> <br> <div align="center"> <img src="https://img.shields.io/badge/Status-Always%20Learning-0047AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Building-00599C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Mindset-Always%20Improving-239120?style=for-the-badge" /> </div> <br> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MELINSKY+%E2%80%A2+CODE+%E2%80%A2+BUILD+%E2%80%A2+LEARN+%E2%80%A2+REPEAT+%E2%9A%A1;Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="Footer typing animation" /> </div> <br> <div data-importer="border"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&animation=fadeIn" /> </div>
+<div data-importer="border">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=MELINSKY&fontSize=65&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Create&descSize=20&descAlign=50&descAlignY=58&theme=cobalt&animation=fadeIn" />
+</div>
+
+<div data-importer="image" align="center">
+  <img height="220" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/funny-cat-gif-funny-cat-rigby-cat%281%29.gif" alt="Funny Rigby Cat GIF" />
+</div>
+
+<h1 data-importer="text" align="center">Hey 👋 What's Up?</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile.;Code+%E2%80%A2+Build+%E2%80%A2+Create+%E2%80%A2+Repeat.;Always+learning%2C+always+building.;Turning+ideas+into+something+real." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Welcome to my corner of GitHub — a place where I share projects, experiments, ideas and everything I'm currently building.
+  <br>
+  Always exploring new technologies, learning new things and turning ideas into real experiences through code.
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeoraBoli&label=PROFILE%20VIEWS&color=0047AB&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/LeoraBoli?label=FOLLOWERS&style=for-the-badge&color=0047AB" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/LeoraBoli?affiliations=OWNER&label=STARS&style=for-the-badge&color=0047AB" alt="Stars" />
+</div>
+
+<br>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+💡 Passionate about technology, software and creating new things.
+
+⚡ I enjoy building, testing, experimenting and improving ideas through code.
+
+🚀 Always exploring new tools, technologies and different ways to solve problems.
+
+🧠 Every project is an opportunity to learn, improve and create something better.
+
+🎯 Currently focused on learning, building and taking ideas from concept to reality.
+
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/oye-gato-gif-oye-gato.gif" alt="Oye Gato GIF" />
+</div>
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  Some of the languages, tools and technologies I work with and continue to explore.
+</p>
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo" />
+</div>
+
+<br>
+
+<p align="center">
+  <b>Languages & Technologies I Work With</b>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<br>
+
+<h2 align="center">🌐 Connect</h2>
+
+<p align="center">
+  Feel free to connect and check out what I'm working on.
+</p>
+
+<div data-importer="socials" align="center">
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Discord" />
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Visual Studio Marketplace" />
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitLab" />
+  </a>
+
+  <a href="https://github.com/LeoraBoli" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitHub" />
+  </a>
+
+</div>
+
+<br>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  A quick overview of my activity, contributions and the technologies I use the most.
+</p>
+
+<div data-importer="stats" align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=LeoraBoli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoraBoli&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoraBoli&theme=transparent&hide_border=true&border_radius=10" alt="GitHub streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/main/GitGifs/cat-meme-gif-cat-meme.gif" alt="Cat Meme GIF" />
+</div>
+
+<br>
+
+<h2 align="center">👾 Pac-Man Contribution Graph</h2>
+
+<p align="center">
+  A fun way to visualize my GitHub contribution activity.
+</p>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoraBoli/LeoraBoli/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-0047AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Building-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Always%20Improving-239120?style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MELINSKY+%E2%80%A2+CODE+%E2%80%A2+BUILD+%E2%80%A2+LEARN+%E2%80%A2+REPEAT+%E2%9A%A1;Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="Footer typing animation" />
+</div>
+
+<br>
+
+<div data-importer="border">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&animation=fadeIn" />
+</div>
